@@ -1,6 +1,6 @@
 ### Hola 👋, HOLA! Mi nombres Juan Cruz
 #### Desarrollador web FullStack!!!
-Me considero una persona apasionada por la tecnología y en contante aprendizaje
+Me considero una persona apasionada por la tecnología y en contanste aprendizaje
 
 Habilidades: NODE JS / REACT / JS / HTML / CSS / REDUX / EXPRESS
 
