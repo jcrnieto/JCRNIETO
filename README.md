@@ -1,6 +1,6 @@
-<h1 align="center"> Hola 👋, HOLA! Mi nombres Juan Cruz</h1>
+<h1 align="center"> 👋 HOLA! Mi nombres Juan Cruz</h1>
 <h1 align="center">Desarrollador Web Full Stack</h1>
-<h1>Me considero una persona apasionada por la tecnología y en contanste aprendizaje</h1>
+<h1>Me considero una persona apasionada por la tecnología y en constante aprendizaje</h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
