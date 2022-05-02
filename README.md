@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 HOLA! Mi nombres Juan Cruz</h1>
+<h1 align="center"> 👋 HOLA! Mi nombr es Juan Cruz</h1>
 <h1 align="center">Desarrollador Web Full Stack</h1>
 <h1>Me considero una persona apasionada por la tecnología y en constante aprendizaje</h1>
 
