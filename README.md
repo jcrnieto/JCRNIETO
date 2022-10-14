@@ -17,8 +17,4 @@
  <><><><><><><><><><><><><><><><><><><><><><><>
 <h3>Proyecto individual: el mismo consume datos de una api llamada spoonacular. las tecnologias usadas son ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL </h3>
  
-![img github1 final](https://user-images.githubusercontent.com/82995532/161473542-f19b7620-7e15-42f6-acb7-afba144e51fd.png)
 
-![img github2 final](https://user-images.githubusercontent.com/82995532/161473553-fa3156cd-c386-4952-bae7-b47159f6b424.png)
-
-![imagen formulario](https://user-images.githubusercontent.com/82995532/161473567-a323040e-6451-48e7-9fbd-6e0a01c084de.png)
